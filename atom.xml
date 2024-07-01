@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dabaicong.com</id>
+    <title>大白葱</title>
+    <updated>2024-07-01T09:21:51.902Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dabaicong.com"/>
+    <link rel="self" href="https://dabaicong.com/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://dabaicong.com/images/avatar.png</logo>
+    <icon>https://dabaicong.com/favicon.ico</icon>
+    <rights>All rights reserved 2024, 大白葱</rights>
+    <entry>
+        <title type="html"><![CDATA[24年下半年计划]]></title>
+        <id>https://dabaicong.com/post/24-nian-xia-ban-nian-ji-hua/</id>
+        <link href="https://dabaicong.com/post/24-nian-xia-ban-nian-ji-hua/">
+        </link>
+        <updated>2024-07-01T08:40:46.000Z</updated>
+        <content type="html"><![CDATA[<p>下面列一下24年下半年计划<br>
+24年下半年事情比较多，需要集中精力办几件大事儿，下面逐一列出</p>
+<ul>
+<li>买房</li>
+<li>考研</li>
+<li>体重管理</li>
+<li>力扣竞赛争取knight
+<ul>
+<li>目前1500分，先争取前1700分，20%再说</li>
+</ul>
+</li>
+<li>结婚</li>
+</ul>
+<p>这些事儿都是大事儿，加油吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二连浩特]]></title>
+        <id>https://dabaicong.com/post/elht/</id>
+        <link href="https://dabaicong.com/post/elht/">
+        </link>
+        <updated>2024-06-21T07:23:34.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="缘起">缘起</h2>
+<p>大概从一年前开始，二连浩特这个名字突然出现在我的梦里，梦到自己在一片翠绿的草原上放肆的跑。头上是蓝蓝的天，身边是白蓝相交的大帐篷。后来也陆陆续续的梦到这里几次，梦里虽然没有明显的地点指示，但是内心却非常确信，梦到的就是二连浩特。关于二连浩特的风景，自己也翻了好多次，也不知道是哪里在吸引着自己，是白垩纪恐龙国家地质公园？还是国门景区？还是恐龙博物馆？？难道我前世是一只恐龙？？亦或是一骏马？</p>
+<h2 id="计划">计划</h2>
+<p>查询了二连浩特的路径，距离700km，跟东海距离差不多，开车7个小时应该是能到的。一路上服务区都挺多的，不过貌似进二连浩特的几个服务区没有加油站，记得在苏尼特右旗吃点羊肉，加个油吧~至于什么时候出发，待定咯，今年事情感觉很多，希望都能有个圆满的结局吧。</p>
+<p>放一个歌单的链接 <a href="https://music.163.com/playlist?id=10167402208&amp;userid=8688095">网易云歌单</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记录下想做的事儿]]></title>
+        <id>https://dabaicong.com/post/todoList/</id>
+        <link href="https://dabaicong.com/post/todoList/">
+        </link>
+        <updated>2024-06-19T01:45:24.000Z</updated>
+        <content type="html"><![CDATA[<p>记录一些自己萌生的想法，等有时间了实现一下</p>
+<h2 id="想做的事儿">想做的事儿</h2>
+<ul>
+<li>做一个程序，自动计算最优的原神的圣遗物
+<ul>
+<li>等今年</li>
+</ul>
+</li>
+<li>想开车去二连浩特
+<ul>
+<li>暂时没时间，先搁置</li>
+</ul>
+</li>
+</ul>
+<h3 id="原神圣遗物计算">原神圣遗物计算</h3>
+<ul>
+<li>操作鼠标键盘输入</li>
+<li>ocr识别圣遗物属性/名称/已装备给x</li>
+<li>ocr识别角色</li>
+<li>根据角色制定圣遗物匹配方案</li>
+<li>圣遗物评分，潜力</li>
+<li>自动装备</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[考研碎碎念]]></title>
+        <id>https://dabaicong.com/post/kyssn/</id>
+        <link href="https://dabaicong.com/post/kyssn/">
+        </link>
+        <updated>2024-06-15T01:26:13.000Z</updated>
+        <content type="html"><![CDATA[<p>记录开始考研后的一些事儿，不定期更新</p>
+<h2 id="学习思路">学习思路</h2>
+<ul>
+<li>数学上，先看一遍视频，然后题海刷题就行，这个没得偷懒 。</li>
+<li>408 上，基础支持得持续强化，数据结构就靠力扣刷题，nnd，考研要求C++/C实现，这个以后刷题得注意了。</li>
+<li>英语上，持续背单词，然后做阅读理解就行。</li>
+<li>政治上，不说了，也是得背，放在考试之前准备就行。</li>
+</ul>
+<h2 id="2024-06-06">2024-06-06</h2>
+<p>原本计划在昨天完成的《408-操作系统》在今天中午刚完成，比预定延迟了半天，感觉还是因为自己有点贪玩，稍微有点放松了，这点需要批评。<br>
+预计今天把《数据结构&amp;算法》过一遍，毕竟之前刷了leetcode，这个应该不是什么大问题吧。力扣刷起来吧。最近因为准备这些材料什么的，刷题放松了一些，这个也得批评。<br>
+下午把数据结构过了1/3了，感觉和力扣的算法很类似啊，难度大概相当于中等难度，应该持续刷着就没问题了。继续加油💪</p>
+<h2 id="2024-06-26">2024-06-26</h2>
+<p>啊，呸，还大言不惭的说过一遍数据结构&amp;算法，鬼话哦。从kmp到Dijkstra、再到Floyd算法。二叉树要到红黑树，AVL、BST、BBT，好在之前刷了一些leetcode，还凑合。看来还不能小看。继续搞吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[减肥碎碎念]]></title>
+        <id>https://dabaicong.com/post/jianfeissn/</id>
+        <link href="https://dabaicong.com/post/jianfeissn/">
+        </link>
+        <updated>2024-06-15T01:15:21.000Z</updated>
+        <content type="html"><![CDATA[<p>这里记录开始减肥后的一些碎碎念，不定期更新，减肥前体重76+kg。<br>
+减肥的基本原理是制造热量差，即，增加消耗，减少摄入，所以目前中午简单吃一口，晚上基本不吃，同时配合运动，保证每天都有热量缺口。<font color="#FF0000"> 管住嘴、多运动</font></p>
+<p>运动适度即可，基本上先侧开跳热身，接平板支撑，接卷腹，交替抬腿/俯卧撑/跪姿俯卧撑/动态平板支撑,最后登山跑。以上运动组合运动几次，保证每天15-20分钟的运动。</p>
+<h3 id="顺便提一嘴">顺便提一嘴</h3>
+<ul>
+<li>减肥是为了一个更健康的身体，是一个长期的过程。</li>
+<li>东西不是不吃，是要控制，控制糖和碳水的摄入。</li>
+<li>可以少吃保持一个饥饿感，但是不要过分挨饿。</li>
+</ul>
+<h2 id="6月之前">6月之前</h2>
+<p>🏋🏋 准确的来说，是5月份开始减肥的，当时体重76+kg，5月底，减重了5kg，到71kg。6月开始记录写这个文章记录的。</p>
+<h2 id="2024-06-12">2024-06-12</h2>
+<p>😀今天中午打算吃汉堡王来着，最近团购了汉堡王的鸡腿堡🍗🍔（9.9一个屯了应该是20个），同事盛情邀请一起出去走走，就去七鲜尝了尝新出的沙拉。感觉分量不如楼下的绿叶子多，但是吃起来却好费劲，不是味道难吃，是感觉自己不如以前能吃了，不想浪费，所以艰难的吃完了。看来减肥还是有效果的。起码胃小了！</p>
+<h2 id="2024-06-15">2024-06-15</h2>
+<p>😅今天不知道是减肥的第几天，持续有一个半月了，偶尔还是会饿（饿也不能吃！），昨天晚上罪恶的吃了些东西，减肥后，晚上吃东西总会有一些负罪感，感觉自己浪费了减肥成果一样。不过早上起来看，体重变化不大，看起来没浪费。</p>
+<h2 id="2025-06-16">2025-06-16</h2>
+<p>😂🤣之前给自己定了个小目标，体重连续三天低于70就奖励自己一顿牛肉火锅自助🐂🍲。原本周四周五两天已经保持在69.x的体重上了，昨天和鹅鹅一起吃了个晚饭，哎。。。他家的小炒猪肝太香了😂，虽然米饭是一口没吃，但是体重蹭蹭的上来了。。。还是破了70。so。。。。继续减肥吧，争取下周能吃上这个牛肉火锅！</p>
+<h2 id="2020-06-20">2020-06-20</h2>
+<p>😱😱今天团队聚餐，海底捞，本来想着少吃点，减减肥。可是过程中还上了啤酒，迫于形势还是喝了，虽然尽量控制吃的少点，但是回家一称！！顿时体重爆炸💥💥，已经70+了，虽然到家已经23点了，还是下楼去跑了个步，然后卷腹，交替抬腿走起，运动了20分钟，散散酒气，减减重。好消息是早上称体重，已经小于70了。继续减肥吧~~~，想到这个月的减肥kpi，有点头大，可我要完成！！！</p>
+<h2 id="2022-06-26">2022-06-26</h2>
+<p>😀😀 今天很开心，体重一称，68.80，距离这个月的目标，只有0.8kg了。上一周，体重一直在70附近徘徊，以为自己进入到瓶颈期了。一看这两天的体重，感觉还可以，还是有下降空间的，还可以继续减。就看这个月的目标能否完成了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人大专硕]]></title>
+        <id>https://dabaicong.com/post/ren-da-zhuan-shuo/</id>
+        <link href="https://dabaicong.com/post/ren-da-zhuan-shuo/">
+        </link>
+        <updated>2024-06-05T12:47:05.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="为什么要考">为什么要考</h2>
+<p>要考的原因有两点，一个是目前形势确实不太好，需要提升下自己的实力，想更系统的深入学习一下。另一个是想去证明下自己可以。</p>
+<h2 id="考试内容">考试内容</h2>
+<ul>
+<li>101的思想政治</li>
+<li>204的英语二</li>
+<li>302的数学二</li>
+<li>408的计算机</li>
+</ul>
+<h2 id="大纲">大纲</h2>
+<p>自己英语还凑合，前期打算先背一个月单词，然后再准备去做真题，从阅读理解开始做一下。</p>
+<p>数学，自己还是有点恐惧，唤起自己高考最后没发挥好的噩梦，但是这次也得迎难而上了。</p>
+<p>计算机，应该是问题不太大，起码数据结构和程序上，应该不会是难点。先过一次叫王道的教材，然后搞两套真题做一下，做完后整体过一遍最近几年的真题，判断下难度。</p>
+<p>最后的思想政治，放最后复习。</p>
+<p>复试是外域+专业课+综合素质，应该就是面试+英语，这个应该不难。<br>
+最后，全日制：20000元/学年，2年总计40000元；非全日制（定向）：16000元/年，3年总计48000元。注：非全日制无奖学金。</p>
+<h2 id="学习框架">学习框架</h2>
+<h3 id="英语二管理类联考英语二考试大纲">英语二（管理类联考英语二）考试大纲</h3>
+<ol>
+<li><strong>完型填空</strong></li>
+</ol>
+<ul>
+<li>形式：一篇200词左右的短文，完型填空共20个题目。</li>
+<li>内容：测试考生对语法和词汇的掌握。</li>
+</ul>
+<ol start="2">
+<li><strong>阅读理解</strong></li>
+</ol>
+<ul>
+<li>形式：4篇阅读文章，每篇大约400-500词，每篇文章后有5道多项选择题，共20道题目。</li>
+<li>内容：测试考生的阅读理解能力，包括对主旨大意、具体信息、推断和评估的理解。</li>
+</ul>
+<ol start="3">
+<li><strong>翻译</strong></li>
+</ol>
+<ul>
+<li>形式：将一篇约150词的中文短文翻译成英文。</li>
+<li>内容：测试考生的遣词造句和语言表达能力。</li>
+</ul>
+<ol start="4">
+<li><strong>写作</strong></li>
+</ol>
+<ul>
+<li>小作文（摘要写作）：考生需要根据所提供材料写一篇约150词的摘要。</li>
+<li>大作文（议论文）：考生需要根据所给提示或图表写一篇160-200词的议论文。</li>
+</ul>
+<h3 id="专业课代码-408-计算机考试大纲">专业课代码 408 - 计算机考试大纲</h3>
+<ol>
+<li><strong>数据结构</strong>
+<ol>
+<li>数据结构基本概念和存储结构（线性表、栈和队列、串、数组和广义表、树、图）。</li>
+<li>各种数据结构的基本操作、实际应用和算法实现（查找、排序等）。
+<ol>
+<li>排序</li>
+<li>查找</li>
+<li>KMP</li>
+</ol>
+</li>
+</ol>
+</li>
+<li><strong>计算机组成原理</strong>
+<ol>
+<li>计算机系统概述。</li>
+<li>数据的表示和运算。</li>
+<li>存储器层次化结构。</li>
+<li>中央处理器（CPU）的结构和功能。</li>
+<li>指令系统和汇编程序设计。</li>
+<li>输入输出（I/O）系统。</li>
+<li>并行处理和多处理器系统。</li>
+</ol>
+</li>
+<li><strong>操作系统</strong>
+<ol>
+<li>操作系统概述。</li>
+<li>处理器管理（进程管理、线程管理、调度与死锁）。</li>
+<li>存储器管理（内存管理、虚拟内存）。</li>
+<li>文件系统。</li>
+<li>输入输出（I/O）管理。</li>
+<li>操作系统的安全、保护机制、故障处理等。</li>
+</ol>
+</li>
+<li><strong>计算机网络</strong>
+<ol>
+<li>计算机网络基础，分层模型和协议（OSI和TCP/IP模型）。</li>
+<li>数据链路层（链路控制、介质访问控制、以太网、桥接和交换）。</li>
+<li>网络层（IP协议、路由算法、IPv4、IPv6、子网划分、网络地址转换）。</li>
+<li>传输层（TCP/UDP协议、拥塞控制、流量控制）。</li>
+<li>应用层（常见网络应用、HTTP、FTP、电子邮件、DNS、P2P）。</li>
+<li>网络安全（加密算法、认证机制、防火墙、VPN）。</li>
+</ol>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-06 KPI]]></title>
+        <id>https://dabaicong.com/post/2024-06-kpi/</id>
+        <link href="https://dabaicong.com/post/2024-06-kpi/">
+        </link>
+        <updated>2024-06-05T04:07:10.000Z</updated>
+        <content type="html"><![CDATA[<p>6月开始了，准备给自己定一下这个月的kpi</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2612769"><label class="task-list-item-label" for="task-item-2612769">  体重控制到68kg，目前72kg</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1221384"><label class="task-list-item-label" for="task-item-1221384">  考研计划于6.9号之前制定完毕</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5617025"><label class="task-list-item-label" for="task-item-5617025">  遵守考研计划并执行</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8109801"><label class="task-list-item-label" for="task-item-8109801">  制定欧洲旅游计划</label></li>
+</ul>
+<h2 id="目标总结">目标总结</h2>
+<p>恭喜遇到了一个自制的自己，一个新的、执行力变强的自己。</p>
+<h3 id="减肥">减肥</h3>
+<p>体重上来到了68.3kg，整体完成了目标，虽然距离68的目标略有点差距，但是整体目标基本达成，值得表扬，对于这段期间内的饮食控制，坚持锻炼，给自己一个大大的表扬。这点值的给自己鼓掌。</p>
+<h3 id="考研">考研</h3>
+<p>目前408已经算看完了两本书，算法这本书还剩下图论和平衡树这儿，还需要仔细深入研究一下。数学二暂未开始，7月重点应该在数学二上了，英语还是背单词为主即可。</p>
+<h3 id="不足">不足</h3>
+<p>说一下不足吧，感觉自己的自制力得到了一定控制，但是还是有放松的情况，比如这周末趁着魔兽回归，打了一天的魔兽，这点之后注意，在考研之前不许再碰魔兽了。还有就是锻炼上，貌似不够勤奋，不过还在体重变化不大，持续掉秤，问题还不大。</p>
+<p>最后放一张自己的体重图吧，<img src="https://dabaicong.com/post-images/1719821705992.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
